@@ -1,0 +1,57 @@
+body{
+    background-color: #1f1d1d;
+    border-left: 3px solid white;
+    border-right: 3px solid white;
+    border-top: 3px solid white;
+    border-bottom: 3px solid white;
+}
+
+h1, h2, h3, h5{
+    font-family: impact;
+    color: rgb(255, 255, 255);
+    text-align: center;
+}
+
+img{
+    width: 17%;
+    border: 5px solid rgb(255, 255, 255);
+    display: block;
+    margin-top: 11%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+p{
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 100;
+}
+
+li, h4{
+    color: white;
+}
+
+table{
+    background-color: black;
+}
+
+footer{
+    color: white;
+    border-top: 3px solid rgb(95, 94, 94);
+    background-color: rgb(17, 17, 17);
+    text-align: center;
+}
+#info-rodape1{
+    color: white;
+    text-align: left;
+    justify-content: left;
+}
+
+#info-rodape2{
+    color: white;
+    text-align: center;
+}
+#info-rodape3{
+    color: white;
+    text-align: right;
+}
