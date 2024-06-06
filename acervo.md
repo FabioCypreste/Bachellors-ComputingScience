@@ -27,3 +27,8 @@ operacionais](https://www.inf.puc-rio.br/~francis/aso3ed/solexerc-v3.2-Jan-2005.
 
 [Introdução ao
 Linux](https://dokumen.pub/introduao-ao-linux-2nbsped-978-85-63630-19-3.html)
+
+[Sistemas operacionais modernos](https://github.com/AlexGalhardo/Software-Engineering/blob/master/Book%20-%20Sistemas%20Operacionais%20Modernos%20-%20Tanenbaum%20-%204%20Edicao.pdf)
+
+[Fundamentos
+de sistemas operacionais](https://www.academia.edu/44329279/Fundamentos_de_Sistemas_operacionais_9a_Edic_a_o_LTC)
